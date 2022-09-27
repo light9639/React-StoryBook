@@ -4,6 +4,7 @@
 ![chromatic-build-storybook-link](https://user-images.githubusercontent.com/95972251/192449596-10b64796-f612-412e-a6e8-b2b12dc5eb46.png)
 
 :sparkles: React StoryBook 템플릿입니다. :sparkles:
+
 ## 🚅 빠른 설치
 
 - StoryBook 개발 환경에 빌드(build) 프로세스를 설정하려면 다음과 같은 설치과정을 거치면 됩니다.
